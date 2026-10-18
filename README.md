@@ -93,14 +93,9 @@ splitting starts to cut document lists apart. That curve is a good figure for th
 | 4 | Prompt iterations, retrieval upgrade (agentic retrieval or reranking), error handling, latency and cost check |
 | 5 | Final evaluation, report (8 pages max), demo rehearsal with every member presenting |
 
-## Suggested roles (5–6 people)
 
-- Corpus and RAG (2): verification of sources, Arabic versions, ingestion, chunking comparison, evaluation
-- Agents and prompts (1–2): router, answer, verifier, prompt library
-- Multimodal (1): Darija speech-to-text tests, vision, optional voice reply
-- Integration (1): n8n, Telegram, error workflow, demo setup
 
-## Known limitations (put these in the report)
+## Known limitations 
 
 - Seed documents come mostly from idaraty.tn, an aggregator; verify against official sources.
 - CIN requirements may change with the biometric card introduced by organic law 2024-22.
@@ -108,7 +103,7 @@ splitting starts to cut document lists apart. That curve is a good figure for th
 - Free-tier rate limits can interrupt testing or a live demo; keep recorded runs as backup.
 - The verifier retries only once; a second failure still sends the corrected draft.
 
-## Deliverables checklist
+
 
 - [ ] Exported n8n workflows in `n8n/` + run instructions (this README and `n8n/README.md`)
 - [ ] Technical report, 8 pages max
