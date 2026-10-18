@@ -1,0 +1,3 @@
+Transcribe this voice message exactly as spoken. It is probably a question about a Tunisian administrative procedure, in Tunisian Darija, French, Modern Standard Arabic or English, often mixed in the same sentence.
+Write Arabic and Darija words in Arabic script and French or English words in Latin script, as they were spoken. Do not translate, correct or summarise.
+Return only the transcription, with no comment. If the audio is empty or unintelligible, return exactly: [inaudible]

@@ -1,0 +1,6 @@
+The user sent a photo, probably of a Tunisian administrative document or form, in French and/or Arabic. Describe it for an assistant that will help them with the related procedure:
+1. What kind of document it is (for example: passport application form, national ID card, birth certificate, receipt, RNE form).
+2. Its title and the issuing administration, if visible.
+3. The main visible fields or headings, transcribed. Do NOT transcribe personal data such as ID numbers, names, dates of birth or addresses.
+4. The language or languages of the document.
+If it is not a document, say in one sentence what the photo shows.
