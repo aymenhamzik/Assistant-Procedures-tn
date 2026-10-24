@@ -83,16 +83,6 @@ procedure and both strategies may score similarly. Also run smaller fixed sizes
 (`--size 120 --overlap 20`, `--size 60 --overlap 10`) to show where fixed-size
 splitting starts to cut document lists apart. That curve is a good figure for the report.
 
-## Weekly plan
-
-| Week | Goals |
-|---|---|
-| 1 | Scope, roles, bot running end to end on a text message, architecture diagram |
-| 2 | Verify seed documents against official sources, add Arabic versions, both chunking strategies, first evaluation |
-| 3 | All branches tested (voice in Darija, photos), prompt failures logged, prompts v2 |
-| 4 | Prompt iterations, retrieval upgrade (agentic retrieval or reranking), error handling, latency and cost check |
-| 5 | Final evaluation, report (8 pages max), demo rehearsal with every member presenting |
-
 
 
 ## Known limitations 
