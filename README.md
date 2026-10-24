@@ -93,9 +93,3 @@ splitting starts to cut document lists apart. That curve is a good figure for th
 - Free-tier rate limits can interrupt testing or a live demo; keep recorded runs as backup.
 - The verifier retries only once; a second failure still sends the corrected draft.
 
-
-
-- [ ] Exported n8n workflows in `n8n/` + run instructions (this README and `n8n/README.md`)
-- [ ] Technical report, 8 pages max
-- [ ] `prompts/prompt_library.md` with before/after iterations
-- [ ] Retrieval evaluation (`eval/results_*.md` + comments in the report)
